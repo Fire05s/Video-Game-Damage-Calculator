@@ -10,7 +10,7 @@ Time spent: **4** hours spent in total
 
 Video Game Damage Calculator is an android app that allows you to calculate how much damage your character will do given a damage and resistance input, and if you have a 50% damage buff or 50% resistance shred.
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **🎮🧮⚔️**
 
 ## Application Features
 
